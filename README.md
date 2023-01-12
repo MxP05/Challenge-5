@@ -25,8 +25,9 @@ run program using jupyterlab
 A tool to help credit union members evaluate their financial health.
 can be used to analyze and visualize market data.
 
-*Box plot of all four funds showing standard deviation outliers and spread*
-![box plot of all four funds showing standard deviation outliers and spread](https://github.com/MxP05/Challenge-4/blob/main/Resources/image1.jpg?raw=true)
+*Montecarlo and Distribution graph, 500 simulations*
+![MC line graph- 500 SIM](https://github.com/MxP05/Challenge-5/blob/main/Images/5-4-monte-carlo-line-plot.png?raw=true)
+![Distribution graph final Cumulative return- 500 SIM](https://github.com/MxP05/Challenge-5/blob/main/Images/5-4-monte-carlo-histogram.png?raw=truee)
 ---
 
 ## Contributors
